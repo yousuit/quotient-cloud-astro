@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quotientcloud.io/sitemap-index.xml
